@@ -5,3 +5,5 @@ kramdown:
   input: GFM
 exclude: ['images/original']
 permalink: :title.html
+
+theme: jekyll-theme-cayman
