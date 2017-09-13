@@ -1,5 +1,5 @@
-name: MarkSheet
-description: A free tutorial to learn HTML and CSS
+name: MarkSheet-german
+description: Ein kostenloses Tutorial zum Erlernen von HTML und CSS
 markdown: kramdown
 kramdown:
   input: GFM
